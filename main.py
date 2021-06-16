@@ -1,6 +1,6 @@
 #Hey there I am here to learn the git 
 def add(x,y):
-    pass
+    return x+y
 def subtract(x,y):
     pass
 def multiply(x,y):
